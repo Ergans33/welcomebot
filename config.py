@@ -1,2 +1,2 @@
-BOTNAME = "usernameofbot"
-TOKEN = "TOKEN"
+BOTNAME = "assistenidamanmu_bot"
+TOKEN = "5296214782:AAG1XgRfrOaSLDAaEUHBMPZ5irnYU8ZCf3w"
